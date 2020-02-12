@@ -1,0 +1,2 @@
+AudioPluginMsHRTF.dll
+Windows.Storage.dll
